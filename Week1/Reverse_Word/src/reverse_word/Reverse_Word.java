@@ -50,6 +50,7 @@ public class Reverse_Word
             System.out.print(reverse[i]);
         
         System.out.println();
+        System.out.println("Commit test");
         
        
         
