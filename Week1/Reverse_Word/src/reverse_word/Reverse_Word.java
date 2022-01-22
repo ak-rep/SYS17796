@@ -49,6 +49,8 @@ public class Reverse_Word
         for(int i= size1; i>=0; i--)
             System.out.print(reverse[i]);
         
+            System.out.println("This is a commit test");
+        
     }
-
+      
 }
