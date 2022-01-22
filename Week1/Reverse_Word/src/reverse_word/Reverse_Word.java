@@ -39,7 +39,7 @@ public class Reverse_Word
         System.out.println();
         */
         
-        System.out.print("Enter her name: ");
+        System.out.print("Enter the String to reverse: ");
         Scanner ip = new Scanner(System.in);
         String name = ip.nextLine();
         char []reverse = name.toCharArray();
@@ -48,11 +48,6 @@ public class Reverse_Word
         
         for(int i= size1; i>=0; i--)
             System.out.print(reverse[i]);
-        
-        System.out.println();
-        System.out.println("Commit test");
-        
-       
         
     }
 
